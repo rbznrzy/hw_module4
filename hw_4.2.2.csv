@@ -1,0 +1,10 @@
+title,text,answer
+{{$randomWord}},{{$randomWords}},{{$randomPhrase}}
+,{{$randomWords}},{{$randomPhrase}}
+{{$randomWord}},,{{$randomPhrase}}
+{{$randomWord}},{{$randomWords}},
+,{{$randomWords}},{{$randomPhrase}}
+,,
+{{$randomWord}},,
+,{{$randomWords}},
+,,{{$randomPhrase}}
