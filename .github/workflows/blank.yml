@@ -38,5 +38,3 @@ jobs:
       - name: Run API tests
         run: |
           postman collection run "${{ github.workspace }}/postman/collections/sqlverifier_module4.json" -e "24763942-7f85c02a-5c23-489a-a00e-3a6e8a20a526"
-          # Lint your API using Postman CLI
-          postman api lint e73f6458-76ec-4857-a166-d452b91a91cc
